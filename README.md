@@ -1,2 +1,2 @@
-# Unity-Project-1
+# Unity-Project1
 유니티와 C#으로 만든 첫 번째 슈팅 게임입니다!
